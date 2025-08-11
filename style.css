@@ -25,6 +25,9 @@ main {
     margin: 20px auto;
     padding: 0 15px;
 }
+main div:hover {
+    border: 5px solid white;
+}
 .post {
     background-color: #415A77;
     padding: 0 15px;
